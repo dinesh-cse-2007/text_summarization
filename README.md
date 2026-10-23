@@ -1,4 +1,4 @@
-#Text Summarization
+# Text Summarization
 
 This project focuses on automatically generating concise summaries of long text documents while preserving their key information and main ideas. It uses Natural Language Processing (NLP) techniques to simplify large amounts of text into short, meaningful summaries.
 
